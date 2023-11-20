@@ -1,6 +1,6 @@
 # Portfolio
 
-Take a look at my Tableau [Tableau Profile]![image](https://github.com/UserDna95/Portfolio/assets/125327802/98d04133-e36b-4017-b37d-889473f378cc)
+Take a look at my Tableau [Tableau Profile]
 
 Stock Analysis Project (Excel, SQL, Tableau)
 
