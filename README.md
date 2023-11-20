@@ -1,6 +1,6 @@
 # Portfolio
 
-Take a look at my Tableau Tableau Profile ![image](https://github.com/UserDna95/Portfolio/assets/125327802/e733045d-fded-43cc-a194-3704bc9d7cda)
+Take a look at my Tableau Profile : https://public.tableau.com/app/profile/deena.nizami/vizzes
 
 Stock Analysis Project (Excel, SQL, Tableau)
 
