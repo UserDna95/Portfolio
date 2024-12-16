@@ -23,6 +23,6 @@ Part 3 (SQL + Tableau)
 ![Screen Shot 2023-11-19 at 10 36 36 PM](https://github.com/UserDna95/Portfolio/assets/125327802/0461c05e-af3c-4553-91c9-93e90859e5e6)
 
       Ramen Ranking (Power BI)
-![Screen Shot 2024-12-16 at 6 07 39 PM](https://github.com/UserDna95/Portfolio/blob/main/Screenshot%20(4).png)
+![Screen Shot 2024-12-16 at 6 09 39 PM](https://github.com/UserDna95/Portfolio/blob/main/Ramen%20SC.png)
 
 
