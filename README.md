@@ -1,6 +1,6 @@
 # Portfolio
 
-Take a look at my Tableau Profile : https://public.tableau.com/app/profile/deena.nizami/vizzes
+Please take a look at my Tableau Profile: https://public.tableau.com/app/profile/deena.nizami/vizzes
 
         Stock Analysis Project (Excel, SQL, Tableau)
 Part 1 (Excel)
@@ -22,5 +22,6 @@ Part 3 (SQL + Tableau)
 ![Screen Shot 2023-11-19 at 10 37 39 PM](https://github.com/UserDna95/Portfolio/assets/125327802/e1df6fdf-23bd-4f37-8a39-51c174c1e5d5)
 ![Screen Shot 2023-11-19 at 10 36 36 PM](https://github.com/UserDna95/Portfolio/assets/125327802/0461c05e-af3c-4553-91c9-93e90859e5e6)
 
-
+      Ramen Ranking (Power BI)
+https://github.com/UserDna95/Portfolio/blob/main/screenshot%20ramen.png
 
