@@ -1,6 +1,6 @@
 # Portfolio
 
-Please take a look at my Tableau Profile: https://public.tableau.com/app/profile/deena.nizami/vizzes
+Take a look at my Tableau Profile: https://public.tableau.com/app/profile/deena.nizami/vizzes
 
         Empire Analysis (Power BI)
 ![Screen Shot 2024-12-23 at 12 05 38 PM](https://github.com/UserDna95/Portfolio/blob/main/Empire%20SC%201.png)
